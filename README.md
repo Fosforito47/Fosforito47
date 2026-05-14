@@ -1,4 +1,4 @@
- <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello%20I'm%20Boris&fontSize=90&fontColor=7E51EB&animation=twinkling" />
+ <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hi!%20I'm%20Boris&fontSize=90&fontColor=7E51EB&animation=twinkling" />
 
 Hi! I’m a frontend developer and web designer pursuing a degree in Computer Science. I enjoy turning ideas into intuitive digital experiences, and I’m actively learning backend development to grow into a well-rounded full-stack developer.
 
@@ -6,27 +6,23 @@ Hi! I’m a frontend developer and web designer pursuing a degree in Computer Sc
 
 ## Tools I use
 
-<div>
-    <table border="0" cellpadding="15" cellspacing="0">
-    <tr>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50"></td>
-    </tr>
-  <!-- Segunda Fila -->
-    <tr>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="50" height="50"></td>
-        <td align="center"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"></td>
-    </tr>
-    </table>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,jquery,tailwind,git,github,vscode,java,python,mysql,obsidian,figma,photoshop,premiere,aftereffects&perline=5" />
+  </a>
+</p>
 
 ---
+
+<p align="center" style="gap:20px">
+<a href="https://www.linkedin.com/in/boris-delgadillo-romero/">
+    <img src="https://img.shields.io/badge/Linkedin-45B6F2?logo=logmein&logoColor=white&logoSize=auto">
+</a>
+&nbsp;
+<a href="mailto:borisdelgadilloro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white">
+</a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Fosforito47/Fosforito47/blob/output/github-snake-dark.svg">
